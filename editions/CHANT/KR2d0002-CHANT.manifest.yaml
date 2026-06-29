@@ -1,0 +1,311 @@
+canonical_identifier: bkk:krp/KR2d0002/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2d0002/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 東觀漢記
+  identifiers:
+    krp: KR2d0002
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR2d
+    tls-internal: swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR2d0002.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2d0002_001-CHANT.yaml, hash: 'sha256:f0750200a9e76e1c7aa90669b6468c95c5f44145d18bdb1a51e0506db39af3ef'}
+  - {seq: 2, filename: KR2d0002_002-CHANT.yaml, hash: 'sha256:09eb38036d81947a4250104980bace19868f698438eb7ebb844f8891fd183e79'}
+  - {seq: 3, filename: KR2d0002_003-CHANT.yaml, hash: 'sha256:b481c11cb5e6ea72827c84654601af14aab8b6f6a22babd26311166b15719c58'}
+  - {seq: 4, filename: KR2d0002_004-CHANT.yaml, hash: 'sha256:bb97bb4c30cf63e173f3f92f96fc92b4ad9c6930a47109a7cd75a297a88a75c1'}
+  - {seq: 5, filename: KR2d0002_005-CHANT.yaml, hash: 'sha256:3c79205a5ef2c984a19dd499b39351c71454a60b452c991a0b68c9d8d518c599'}
+  - {seq: 6, filename: KR2d0002_006-CHANT.yaml, hash: 'sha256:0c4805f47113ec25a1ad01b2e3436050b6ff79e6d0710460f533aa676edb0a4a'}
+  - {seq: 7, filename: KR2d0002_007-CHANT.yaml, hash: 'sha256:f7034780b07f886f24001bcfdaa0e87a512b23795fddd9728a2b6be3403fccf6'}
+  - {seq: 8, filename: KR2d0002_008-CHANT.yaml, hash: 'sha256:6d9b846ffc04628b33eb44052add3306a0833de910a2912e416c65fab4297a06'}
+  - {seq: 9, filename: KR2d0002_009-CHANT.yaml, hash: 'sha256:fff70dac032e78ae04293cbbb68937502dc6a0433f1d7cf074cbfa5f22af526a'}
+  - {seq: 10, filename: KR2d0002_010-CHANT.yaml, hash: 'sha256:32286c14349a80e460235b07ad7261065fbb232da5463a42af01303408f57d94'}
+  - {seq: 11, filename: KR2d0002_011-CHANT.yaml, hash: 'sha256:fdab1574304b24246c1dd2463fa2ea75ae852d6f0f2d08f56ed00d0a1354b271'}
+  - {seq: 12, filename: KR2d0002_012-CHANT.yaml, hash: 'sha256:57330ae36a282d67508aa0a49c57e016144fd4f538f86b44948d456de183828a'}
+  - {seq: 13, filename: KR2d0002_013-CHANT.yaml, hash: 'sha256:3cc7c781bab870efcccabb00ba7665aca44957657dd9030a2d6c13b5a212ef23'}
+  - {seq: 14, filename: KR2d0002_014-CHANT.yaml, hash: 'sha256:53d8a8abe7743ad7f4ccee62dbd7152e99c16fbf27672542ec07c835305c4303'}
+  - {seq: 15, filename: KR2d0002_015-CHANT.yaml, hash: 'sha256:2526f74424e34c6aa2171f7dac101a288e835972d84fd296776f97ed070e59bf'}
+  - {seq: 16, filename: KR2d0002_016-CHANT.yaml, hash: 'sha256:d513a0c3c7ee28ccf5ec4a0df292c2f5b4a77f9d0ce6334e4a4415ea129345a4'}
+  - {seq: 17, filename: KR2d0002_017-CHANT.yaml, hash: 'sha256:ba06e9637f069378cba831e80580dedbce1dfe6ba7945fc076c7e4d642ed266e'}
+  - {seq: 18, filename: KR2d0002_018-CHANT.yaml, hash: 'sha256:93d6c92cc8e99a85403c05e5016e8c0bb177a8c56153006c0fa45ada72ef2073'}
+  - {seq: 19, filename: KR2d0002_019-CHANT.yaml, hash: 'sha256:73e34f4e0e6db5fdbe79ea31a1def6059bf173182f09e46b830d299c92719fd6'}
+  - {seq: 20, filename: KR2d0002_020-CHANT.yaml, hash: 'sha256:8d873ecd484c42c0a529cfad96141dcbd9b75881a224e34eb0084194a9761f3f'}
+  - {seq: 21, filename: KR2d0002_021-CHANT.yaml, hash: 'sha256:877534a793092b469fd489972bb05f38d9bc1c526ffcf32678053fffcf4ce86a'}
+  - {seq: 22, filename: KR2d0002_022-CHANT.yaml, hash: 'sha256:21e1a3e6d1f216b93bf933d5043124c176ca473bf5b059fba5e7ae16605fac58'}
+  - {seq: 23, filename: KR2d0002_023-CHANT.yaml, hash: 'sha256:34a59619a9cae07a1e03cc5cdfc9c41973251cb9ef1523589c73450870dea2e8'}
+  - {seq: 24, filename: KR2d0002_024-CHANT.yaml, hash: 'sha256:25a0480134a820cbf9fd002e6befb15e118dbba62f1b07bb837ded2ce8907b83'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2d0002_001-CHANT.markers.yaml, hash: 'sha256:f2d0d2372922dd81695d54566ece902488c5431b6af1ed5c8c34c533c5558de2'}
+  - {seq: 2, role: markers, filename: assets/KR2d0002_002-CHANT.markers.yaml, hash: 'sha256:07ada8a176b403ed0091b6b334cdc41829eb8f22eb69c577c4da0480ca51a81f'}
+  - {seq: 3, role: markers, filename: assets/KR2d0002_003-CHANT.markers.yaml, hash: 'sha256:cd0f5e7a20c08c4e1cb819bf09263252707816b0c43abce8eb5d878ffb3c5de0'}
+  - {seq: 4, role: markers, filename: assets/KR2d0002_004-CHANT.markers.yaml, hash: 'sha256:c4586207634ee4d6d433600a47f4fad35c8cfd6f3dcf80a40c928201bf659680'}
+  - {seq: 5, role: markers, filename: assets/KR2d0002_005-CHANT.markers.yaml, hash: 'sha256:d0596eb13f20bdc0bd1eecc8d0b66d411410f91ef2636294b4839006f1412eac'}
+  - {seq: 6, role: markers, filename: assets/KR2d0002_006-CHANT.markers.yaml, hash: 'sha256:8555475806b354cdbf2140c28dd2dc38e01ecef1e3e84bd67453c2c8cc883811'}
+  - {seq: 7, role: markers, filename: assets/KR2d0002_007-CHANT.markers.yaml, hash: 'sha256:1e4550038df9a792e0ad78a82ce4643ade01c3f4637733cdd23c3e89f481092f'}
+  - {seq: 8, role: markers, filename: assets/KR2d0002_008-CHANT.markers.yaml, hash: 'sha256:ee365b8d8c323235116db6ce923a1560b85b44691dc176731f49f6e35e47f6ae'}
+  - {seq: 9, role: markers, filename: assets/KR2d0002_009-CHANT.markers.yaml, hash: 'sha256:75234af5dd16d3a237f4d6d85339182885859c89026f2527db9499310f81e174'}
+  - {seq: 10, role: markers, filename: assets/KR2d0002_010-CHANT.markers.yaml, hash: 'sha256:a71858d58ddfdbf8c336cbe8a3bf55914e7e950e3fbeff0d43b099f7c39db52e'}
+  - {seq: 11, role: markers, filename: assets/KR2d0002_011-CHANT.markers.yaml, hash: 'sha256:86dfacc2e891aeffd7773b2ecc55f26f6ee6fc08efe1d3cd3e33ace597012b49'}
+  - {seq: 12, role: markers, filename: assets/KR2d0002_012-CHANT.markers.yaml, hash: 'sha256:becd4f0edb368a2b61e6190c483559a2097cc2bef423135cc11c41f7823e9ec0'}
+  - {seq: 13, role: markers, filename: assets/KR2d0002_013-CHANT.markers.yaml, hash: 'sha256:550a2ef3ed164f0c2960b82b5da7ffaac0e75be016b9428549084e2111a3b258'}
+  - {seq: 14, role: markers, filename: assets/KR2d0002_014-CHANT.markers.yaml, hash: 'sha256:0e324dd9c0907578d84df1de76ce12c26ea8f48eb38aecae2657001377314d20'}
+  - {seq: 15, role: markers, filename: assets/KR2d0002_015-CHANT.markers.yaml, hash: 'sha256:2a501f5af3504723c569bfde79ba6731035ff66eb15a96af212312fe1b4ed56a'}
+  - {seq: 16, role: markers, filename: assets/KR2d0002_016-CHANT.markers.yaml, hash: 'sha256:eec7551779de0be338530adf715f2e7ac4f6bc7f57e13f7265be436bf5ff2ea0'}
+  - {seq: 17, role: markers, filename: assets/KR2d0002_017-CHANT.markers.yaml, hash: 'sha256:cd3284cf6df0e3068a27aeedfb270d48c10c22ee5e5d89acb351fed1318b6900'}
+  - {seq: 18, role: markers, filename: assets/KR2d0002_018-CHANT.markers.yaml, hash: 'sha256:33b3ee57338b95e0e1478a40b85a5defa35f56c59034656da7a3b3f16b7c8078'}
+  - {seq: 19, role: markers, filename: assets/KR2d0002_019-CHANT.markers.yaml, hash: 'sha256:d5bd2242fe219e57413ad1d8a9ec00664c114450e0c8fe7a6f3051329556aef4'}
+  - {seq: 20, role: markers, filename: assets/KR2d0002_020-CHANT.markers.yaml, hash: 'sha256:79ad2e0e69436cad3355b367ef1e3643d8b6fa1b5a7c5b59f242894622af5a11'}
+  - {seq: 21, role: markers, filename: assets/KR2d0002_021-CHANT.markers.yaml, hash: 'sha256:ed1cabb0ed2ea913114bab79940cfe5b2dfcbb986349a06b65fbb5b82d2af979'}
+  - {seq: 22, role: markers, filename: assets/KR2d0002_022-CHANT.markers.yaml, hash: 'sha256:226d7bb4a69981a3443af76c477750b63cf319c06ad7ccdb6da091fdcbc5a1fa'}
+  - {seq: 23, role: markers, filename: assets/KR2d0002_023-CHANT.markers.yaml, hash: 'sha256:ddb4d8656194e1254a60705077198eb856e1bebd3a9ab256da6a0be8f01ad460'}
+  - {seq: 24, role: markers, filename: assets/KR2d0002_024-CHANT.markers.yaml, hash: 'sha256:c93055226079853f502ca2e584824990f2d8f01e592f96cc6a90f88cf79f50ea'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2d0002_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 5884
+  label: 東觀漢記卷一帝紀一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2d0002_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 3384
+  label: 東觀漢記卷二帝紀二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2d0002_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 2686
+  label: 東觀漢記卷三帝紀三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2d0002_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 723
+  label: 東觀漢記卷四年表
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2d0002_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 2741
+  label: 東觀漢記卷五志
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2d0002_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 1736
+  label: 東觀漢記卷六列傳一外戚
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2d0002_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 2756
+  label: 東觀漢記卷七列傳二宗室
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2d0002_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 4119
+  label: 東觀漢記卷八列傳三
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2d0002_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 3328
+  label: 東觀漢記卷九列傳四
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2d0002_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 2978
+  label: 東觀漢記卷十列傳五
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR2d0002_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 2025
+  label: 東觀漢記卷十一列傳六
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR2d0002_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 3930
+  label: 東觀漢記卷十二列傳七
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR2d0002_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 3881
+  label: 東觀漢記卷十三列傳八
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR2d0002_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 3000
+  label: 東觀漢記卷十四列傳九
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR2d0002_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 3598
+  label: 東觀漢記卷十五列傳十
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR2d0002_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 6099
+  label: 東觀漢記卷十六列傳十一
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR2d0002_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 3424
+  label: 東觀漢記卷十七列傳十二
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR2d0002_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 4648
+  label: 東觀漢記卷十八列傳十三
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR2d0002_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 3602
+  label: 東觀漢記卷十九列傳十四
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR2d0002_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 1950
+  label: 東觀漢記卷二十列傳十五
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR2d0002_CHANT_021-1a.1-h
+    span:
+    - body
+    - 0
+    - 2475
+  label: 東觀漢記卷二十一列傳十六
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR2d0002_CHANT_022-1a.1-h
+    span:
+    - body
+    - 0
+    - 989
+  label: 東觀漢記卷二十二列傳十七列女外裔
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR2d0002_CHANT_023-1a.1-h
+    span:
+    - body
+    - 0
+    - 3921
+  label: 東觀漢記卷二十三載記
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR2d0002_CHANT_024-1a.1-h
+    span:
+    - body
+    - 0
+    - 1407
+  label: 東觀漢記卷二十四佚文
+  type: section
+  level: 1
+hash: sha256:8768db97e0c65a8508432c0caee2ecd1da9ac8c74f82e49d6f216dcd66374699
