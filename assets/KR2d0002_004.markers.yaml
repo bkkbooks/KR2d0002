@@ -115,7 +115,6 @@ markers:
   - {type: 'tls:seg', offset: 153, content: '', id: KR2d0002_CHANT_004-3a.10}
   - {type: variant, offset: 153, length: 0, content: '', WYG: 案治禮員司馬彪作治禮郎}
   - {type: variant, offset: 153, length: 0, content: '', krp: 案治禮員司馬彪作治禮郎}
-  - {type: substitution, offset: 154, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 162, content: 。, id: KR2d0002_CHANT_004-bkkpn30}
   - {type: 'tls:seg', offset: 162, content: '', id: KR2d0002_CHANT_004-3a.11}
   - {type: punctuation, offset: 166, content: ，, id: KR2d0002_CHANT_004-bkkpn31}
@@ -421,4 +420,4 @@ markers:
   - {type: page-break, offset: 723, content: '', id: KR2d0002_WYG_004-5b, image: WYG0370/WYG0370-0093d.png}
   - {type: variant, offset: 723, length: 0, content: '', krp: 今存其目東觀漢記卷四}
   back: []
-hash: sha256:3be3637ca8661f938c4b475ae0750d5df3b64cc75ea7d50a49866977392904a5
+hash: sha256:18b054a2d4f986842a2c3e7945566901111fb7176f582e43a29551977f438392
