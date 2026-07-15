@@ -20,6 +20,7 @@ markers:
   - {type: 'tls:seg', offset: 15, content: '', id: KR2d0002_CHANT_004-1a.4}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 案此下有闕文}
   - {type: variant, offset: 15, length: 0, content: '', krp: 案此下有闕文}
+  - {type: substitution, offset: 15, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 24, content: 。, id: KR2d0002_CHANT_004-bkkpn4}
   - {type: xml-element, offset: 24, content: '', id: KR2d0002_CHANT_004-bkkxmlele4}
   - {type: xml-element, offset: 24, content: '', id: KR2d0002_CHANT_004-bkkxmlele5}
@@ -286,6 +287,7 @@ markers:
   - {type: punctuation, offset: 497, content: 。, id: KR2d0002_CHANT_004-bkkpn109}
   - {type: 'tls:seg', offset: 497, content: '', id: KR2d0002_CHANT_004-6a.21}
   - {type: punctuation, offset: 500, content: 、, id: KR2d0002_CHANT_004-bkkpn110}
+  - {type: substitution, offset: 501, original: 櫂, replacement: 棹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18434}}
   - {type: punctuation, offset: 507, content: ；, id: KR2d0002_CHANT_004-bkkpn111}
   - {type: 'tls:seg', offset: 507, content: '', id: KR2d0002_CHANT_004-6a.22}
   - {type: punctuation, offset: 512, content: ，, id: KR2d0002_CHANT_004-bkkpn112}
@@ -420,4 +422,4 @@ markers:
   - {type: page-break, offset: 723, content: '', id: KR2d0002_WYG_004-5b, image: WYG0370/WYG0370-0093d.png}
   - {type: variant, offset: 723, length: 0, content: '', krp: 今存其目東觀漢記卷四}
   back: []
-hash: sha256:18b054a2d4f986842a2c3e7945566901111fb7176f582e43a29551977f438392
+hash: sha256:20621dd91696724f9bc8ff32512ba0af4a034b71eaad4b3973bbbd05e9353599
